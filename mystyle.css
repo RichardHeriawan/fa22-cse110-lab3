@@ -203,14 +203,14 @@ p {
 	content:'*';
 }
 
-/*Using child combinator */
+
 .tsummary > li {
 	font-size: 40px;
 	color:rgb(0, 17, 255);
 	font-weight:bold;
 }
 
-/*Using the adjacent sibling combinator */
+
 #second-bullet-point + li {
 	font-size: 30px;
 	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
