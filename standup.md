@@ -1,5 +1,5 @@
 # **Growth Team Weekly Stand Up**
-Date: Wed Oct 12 2022
+_Date: Wed Oct 12 2022_
 
 What did work on yesterday? 
 
