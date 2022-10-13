@@ -1,15 +1,17 @@
 # **Growth Team Weekly Stand Up**
-
 Date: Wed Oct 12 2022
 
-###What did work on yesterday? 
-1. Creating meeting muinutes using HTML and CSS 
-2. Using new things in HTML and CSS
+What did work on yesterday? 
+_Share your progress on the sprint goals._
+1. 
+2. 
 
-###What am I working on today? 
-1. Continue building my meeting minutes website
-2. Learning new tools in CSS
+What am I working on today? 
+_Mention the things you want to accomplish today._
+1. 
+2. 
 
-###What issues are blocking me? 
-1. None
+What issues are blocking me? 
+_Is there anything preventing you from getting you work done?_
+1. 
 

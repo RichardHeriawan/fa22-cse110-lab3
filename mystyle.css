@@ -1,4 +1,4 @@
-/* import font from 3rd party font */
+/*import font from 3rd party font */
 @font-face {
     font-family: 'Signika';
     src: url('Fonts/Signika-SemiBold.ttf');
@@ -81,7 +81,6 @@ div {
 
 /*Set the heading height*/
 :root {
-	/* Heading height variable*/
 	--heading-height: 15em;
 }
 
