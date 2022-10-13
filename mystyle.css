@@ -223,6 +223,12 @@ p {
 	color: rgb(65, 220, 140);
 }
 
+/*Combining two selectors */
+li:only-child {
+	font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	color: rgb(0, 238, 255);
+}
+
 /*Set the things to do font size, color, and font family */
 #things-to-do {
 	font-size: 28px;
