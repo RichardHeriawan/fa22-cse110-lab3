@@ -1,7 +1,7 @@
 # **Growth Team Weekly Stand Up**
 _Date: Wed Oct 12 2022_
 
-What did work on yesterday? 
+1. What did work on yesterday? 
 
 _Share your progress on the sprint goals._
 
@@ -10,7 +10,7 @@ _Share your progress on the sprint goals._
 > Answer 2
 
 
-What am I working on today? 
+2. What am I working on today? 
 
 _Mention the things you want to accomplish today._
 
@@ -19,7 +19,7 @@ _Mention the things you want to accomplish today._
 > Answer 2
 
 
-What issues are blocking me? 
+3. What issues are blocking me? 
 
 _Is there anything preventing you from getting you work done?_
 
