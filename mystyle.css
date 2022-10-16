@@ -163,7 +163,6 @@ p {
 .grid-container {
 	display:grid;
 	grid-auto-rows: minmax(150px, auto);
-	grid-gap: 5px; 
 	grid-template-areas: "header header";
 }
 
